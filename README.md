@@ -1,5 +1,5 @@
 # Auto download firmware for module i915
-This is the script auto download missing firmware for module i915
+This is the script auto download missing firmware for module i915 on Debian or other Debian-based distro(Ubuntu, Linux Mint, Zorin OS,etc).
 
 
 Follow the instructions below to execute the script:
