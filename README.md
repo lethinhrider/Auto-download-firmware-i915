@@ -8,6 +8,6 @@ Follow the instructions below to execute the script:
 
 **2**. **Open terminal and run**:
 
-chmod +x Fix_missing_firmware_i915.sh
+`chmod +x Fix_missing_firmware_i915.sh`
 
-./Fix_missing_firmware_i915.sh
+`./Fix_missing_firmware_i915.sh`
