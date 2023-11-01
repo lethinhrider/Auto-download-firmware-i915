@@ -4,7 +4,7 @@ It will remove warnings like this [**case**](https://unix.stackexchange.com/ques
 
 Follow the instructions below to execute the script:
 
-**1**. **Download the script file from [here](https://github.com/lethinhrider/Auto-download-firmware-i915/releases)**
+**1**. **Download the script file from [here](https://github.com/lethinhrider/Auto-download-firmware-i915/releases/download/1.0/Fix_missing_firmware_i915.sh)**
 
 **2**. **Open terminal and run**:
 
